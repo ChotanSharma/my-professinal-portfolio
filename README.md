@@ -1,5 +1,7 @@
 # my-professinal-portfolio
 
+![Developer Portfolio](./images/my-avatar.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## User Story:
@@ -20,6 +22,12 @@ The application is designed with html, css, and javascripts. The boilerplate had
 ## Installation 
 To run this application, no installation is necessary. Just click on the link at . 
 ## Assets
+
+The latest projects: 
+
+![Developer Portfolio](./images/the-guest-list-project.png)
+
+
 
 View the front look: [front page](/images/Front%20page.png)
 
